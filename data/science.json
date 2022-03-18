@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Who was the first person to step on moon",
+    "correct_answer": "Neil Armstrong",
+    "incorrect_answers": ["Michael Collins", "Buzz Aldrin ", "alan shepard"]
+  },
+  {
+    "question": "At which year did Neil Armstrong stepped on moon",
+    "correct_answer": "July 20, 1969",
+    "incorrect_answers": ["July 20, 1969", "July 20, 1969", "July 20, 1969"]
+  },
+  {
+    "question": "What is the part of speech of the word “exploit”?",
+    "correct_answer": "verb",
+    "incorrect_answers": ["interjection", "adjective", "noun"]
+  },
+  {
+    "question": "What is the part of speech of the word “utility”?",
+    "correct_answer": "noun",
+    "incorrect_answers": ["adverb", "conjunction", "verb"]
+  },
+  {
+    "question": "What is the part of speech of the word “garrulous”?",
+    "correct_answer": "adjective",
+    "incorrect_answers": ["interjection", "preposition", "verb"]
+  },
+  {
+    "question": "What is the part of speech of the word “consolidate”?",
+    "correct_answer": "verb",
+    "incorrect_answers": ["adjective", "noun", "adverb"]
+  },
+  {
+    "question": "What is the part of speech of the word “diligently”?",
+    "correct_answer": "adverb",
+    "incorrect_answers": ["adjective", "noun", "verb"]
+  },
+  {
+    "question": "What is the part of speech of the word “frustratingly”?",
+    "correct_answer": "adverb",
+    "incorrect_answers": ["preposition", "noun", "verb"]
+  },
+  {
+    "question": "What is the part of speech of the word “beyond”?",
+    "correct_answer": "preposition",
+    "incorrect_answers": ["adverb", "adjectives", "verb"]
+  },
+  {
+    "question": "What is the part of speech of the word “beyond”?",
+    "correct_answer": "preposition",
+    "incorrect_answers": ["adverb", "adjectives", "verb"]
+  },
+  {
+    "question": "What is the part of speech of the word “ricochet”?",
+    "correct_answer": "noun",
+    "incorrect_answers": ["adverb", "preposition", "verb"]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "question": "Why do you live in France? Identify the tense used in this sentence.",
+    "correct_answer": "present simple",
+    "incorrect_answers": [
+      "present perfect",
+      "present continuous",
+      "present perfect continuous"
+    ]
+  },
+  {
+    "question": "You are visiting The English Club. Identify the tense used in this sentence.",
+    "correct_answer": "present continuous",
+    "incorrect_answers": ["present perfect", "future simple", "present simple"]
+  },
+  {
+    "question": "I haven't had breakfast yet. Identify the tense used in this sentence.",
+    "correct_answer": "present perfect",
+    "incorrect_answers": ["present continuous", "present simple", "conditional"]
+  },
+  {
+    "question": "Would you like a coffee? Identify the tense used in this sentence.",
+    "correct_answer": "conditional",
+    "incorrect_answers": ["present simple", "future simple", "present perfect"]
+  },
+  {
+    "question": "Were you working at 9 o'clock? Identify the tense used in this sentence.",
+    "correct_answer": "past continuous",
+    "incorrect_answers": ["past simple", "past perfect", "future continuous"]
+  },
+  {
+    "question": "Did Tara phone you yesterday? Identify the tense used in this sentence.",
+    "correct_answer": "past simple",
+    "incorrect_answers": ["past continuous", "past perfect", "present simple"]
+  },
+  {
+    "question": "The train had already left. Identify the tense used in this sentence.",
+    "correct_answer": "past perfect",
+    "incorrect_answers": ["past simple", "past continuous", "conditional"]
+  },
+  {
+    "question": "We'll have finished by 6pm. Identify the tense used in this sentence.",
+    "correct_answer": "future perfect",
+    "incorrect_answers": ["future continuous", "future simple", "past perfect"]
+  },
+  {
+    "question": "Will he still be travelling this evening? Identify the tense used in this sentence.",
+    "correct_answer": "future continuous",
+    "incorrect_answers": [
+      "future simple",
+      "future perfect",
+      "present continuous"
+    ]
+  },
+  {
+    "question": "Will you be in Bangkok tomorrow? Identify the tense used in this sentence.",
+    "correct_answer": "future simple",
+    "incorrect_answers": [
+      "future continuous",
+      "future perfect",
+      "past continuous"
+    ]
+  },
+  {
+    "question": "I will be playing cricket next Sunday. Identify the tense used in this sentence.",
+    "correct_answer": "future continuous",
+    "incorrect_answers": [
+      "future perfect continuous",
+      "future simple",
+      "future perfect"
+    ]
+  },
+  {
+    "question": "Amit has been regularly going to school. Identify the tense used in this sentence.",
+    "correct_answer": "present perfect",
+    "incorrect_answers": ["conditional", "present simple", "present continuous"]
+  }
+]

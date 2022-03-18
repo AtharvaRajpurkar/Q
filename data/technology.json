@@ -1,0 +1,79 @@
+[
+  {
+    "question": "Who was the first person to step on moon?",
+    "correct_answer": "Neil Armstrong",
+    "incorrect_answers": ["Charles Duke", "Buzz Aldrin", "Alan Shepard"]
+  },
+  {
+    "question": "What is the name of the Indian space agency?",
+    "correct_answer": "ISRO",
+    "incorrect_answers": ["NASA", "Roscosmos", "JAXA"]
+  },
+  {
+    "question": "Approximately how old is the Universe?",
+    "correct_answer": "13.8 billion years",
+    "incorrect_answers": [
+      "1.7 billion years",
+      "16.9 billion years",
+      "100 million years"
+    ]
+  },
+  {
+    "question": "What is the name of our galaxy?",
+    "correct_answer": "Milky Way",
+    "incorrect_answers": ["Andromeda", "Cygnus A", "Magellanic Clouds"]
+  },
+  {
+    "question": "Approximately how far is the Earth from the Sun?",
+    "correct_answer": "150 million km",
+    "incorrect_answers": ["71 million km", "123 million km", "246 million km"]
+  },
+  {
+    "question": "When was the James Webb Space Telescope launched?",
+    "correct_answer": "25 December 2021",
+    "incorrect_answers": ["1 January 2022", "20 July 2020", "13 November 2021"]
+  },
+  {
+    "question": "What is the name of Elon Musk's aerospace company?",
+    "correct_answer": "SpaceX",
+    "incorrect_answers": ["Virgin Galactic", "Blue Origin", "Lockheed Martin"]
+  },
+  {
+    "question": "Approximately how much did it cost to build the international space station?",
+    "correct_answer": "$150 billion",
+    "incorrect_answers": ["$3 billion", "$71 billion", "$233 billion"]
+  },
+  {
+    "question": "When was NASA established?",
+    "correct_answer": "29 July 1958",
+    "incorrect_answers": ["31 October 1936", "14 March 2002", "30 May 1975"]
+  },
+  {
+    "question": "Which was the first satellite launched by the European Space Agency?",
+    "correct_answer": "COS-B",
+    "incorrect_answers": [
+      "Aryabhata spacecraft",
+      "Explorer 1",
+      "Dong Fang Hong 1"
+    ]
+  },
+  {
+    "question": "When did Yuri Gagarin go to space?",
+    "correct_answer": "April 12, 1961",
+    "incorrect_answers": [
+      "June 5, 1978",
+      "December 23, 1999",
+      "January 4, 1959"
+    ]
+  },
+  {
+    "question": "Who was the first billionaire to go to space?",
+    "correct_answer": "Richard Branson",
+    "incorrect_answers": ["Jeff Bezos", "Bill Gates", "Yusaku Maezawa"]
+  },
+  {
+    "question": "Approximately how many days does it take for Jupiter to complete one revolution around the Sun?",
+    "correct_answer": "4,331 days",
+    "incorrect_answers": ["1,348 days", "2,145 days", "3,562 days"]
+  }
+]
